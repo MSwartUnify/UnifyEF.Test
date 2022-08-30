@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unify.EFTest.Api", "Unify.EFTest.Api\Unify.EFTest.Api.csproj", "{6A44E5E8-937D-4CD7-85B4-3197FABB7180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unify.EFTest.Data", "Unify.EFTest.Data\Unify.EFTest.Data.csproj", "{0729B10B-5E81-4CDC-AC89-D5F3F1F90F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unify.EFTest.Service", "Unify.EFTest.Service\Unify.EFTest.Service.csproj", "{64ED2F50-443F-425C-9454-EE6C2A8CDD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A44E5E8-937D-4CD7-85B4-3197FABB7180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A44E5E8-937D-4CD7-85B4-3197FABB7180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A44E5E8-937D-4CD7-85B4-3197FABB7180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A44E5E8-937D-4CD7-85B4-3197FABB7180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0729B10B-5E81-4CDC-AC89-D5F3F1F90F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0729B10B-5E81-4CDC-AC89-D5F3F1F90F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0729B10B-5E81-4CDC-AC89-D5F3F1F90F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0729B10B-5E81-4CDC-AC89-D5F3F1F90F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64ED2F50-443F-425C-9454-EE6C2A8CDD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64ED2F50-443F-425C-9454-EE6C2A8CDD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64ED2F50-443F-425C-9454-EE6C2A8CDD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64ED2F50-443F-425C-9454-EE6C2A8CDD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

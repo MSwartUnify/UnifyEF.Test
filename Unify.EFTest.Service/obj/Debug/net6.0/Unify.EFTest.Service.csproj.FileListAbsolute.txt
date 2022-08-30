@@ -1,0 +1,15 @@
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\bin\Debug\net6.0\Unify.EFTest.Service.deps.json
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\bin\Debug\net6.0\Unify.EFTest.Service.dll
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\bin\Debug\net6.0\Unify.EFTest.Service.pdb
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\bin\Debug\net6.0\Unify.EFTest.Data.dll
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\bin\Debug\net6.0\Unify.EFTest.Data.pdb
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.csproj.AssemblyReference.cache
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.AssemblyInfoInputs.cache
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.AssemblyInfo.cs
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.csproj.CoreCompileInputs.cache
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.csproj.CopyComplete
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.dll
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\refint\Unify.EFTest.Service.dll
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\Unify.EFTest.Service.pdb
+C:\Users\MonraySwart\RiderProjects\Unify.EFTest\Unify.EFTest.Service\obj\Debug\net6.0\ref\Unify.EFTest.Service.dll
