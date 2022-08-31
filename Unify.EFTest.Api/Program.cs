@@ -16,6 +16,12 @@ builder.Services.AddDataContext();
 // Add services
 builder.Services.AddServices();
 
+builder.Services
+    .AddControllersWithViews()
+    .AddNewtonsoftJson(options =>
+        options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+    );
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

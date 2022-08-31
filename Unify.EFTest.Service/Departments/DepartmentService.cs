@@ -21,6 +21,21 @@ public class DepartmentService : IDepartmentService
             .Include(t=>t.Users)
             .AsNoTracking()
             .ToList();
+        
+        // -->
+        // The above LINQ will generate the following SQL query 
+        // -->
+        
+        // SELECT [t].[Id], 
+        // [t].[Created], 
+        // [t].[DepartmentName], 
+        // [t.Users].[Id],
+        // [t.Users].[Created],
+        // [t.Users].[FirstName],
+        // [t.Users].[LastName],
+        // [t.Users].[Role]
+        // FROM [Departments] AS [t]
+        // LEFT JOIN [Users] AS [t.Users] ON [t].[Id] = [t.Users].[DepartmentId]
 
         return departmentsWithUsers;
     }
@@ -30,6 +45,18 @@ public class DepartmentService : IDepartmentService
     {
         var departments = _DatabaseContext
             .Departments
+            .AsNoTracking()
+            .ToList();
+
+        return departments;
+    }
+    
+    /// <inheritdoc />
+    public IEnumerable<DepartmentEntity> GetDepartmentsWithClients()
+    {
+        var departments = _DatabaseContext
+            .Departments
+            .Include(t=>t.Users)
             .AsNoTracking()
             .ToList();
 

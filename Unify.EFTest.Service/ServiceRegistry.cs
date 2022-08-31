@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Unify.EFTest.Service.Clients;
 using Unify.EFTest.Service.Departments;
 
 namespace Unify.EFTest.Service;
@@ -12,5 +13,6 @@ public static class ServiceRegistry
     {
         // Data config 
         services.AddScoped<IDepartmentService, DepartmentService>();
+        services.AddScoped<IClientService, ClientService>();
     }
 }

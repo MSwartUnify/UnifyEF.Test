@@ -15,4 +15,11 @@ public interface IDepartmentService
     /// </summary>
     /// <returns>Departments</returns>
     IEnumerable<DepartmentEntity> GetDepartments();
+
+
+    /// <summary>
+    /// Gets the Departments with Clients
+    /// </summary>
+    /// <returns>Departments</returns>
+    IEnumerable<DepartmentEntity> GetDepartmentsWithClients();
 }
